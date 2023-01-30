@@ -21,6 +21,7 @@ import Customer from 'Components/Customers/Customer';
 import Detail2 from 'Components/Details/Details2';
 import Detail3 from 'Components/Details/Details3';
 import FinalComponent from 'Components/FinalComponent/FinalComponent'
+import RoomDetails from '@/pages/RoomDetails'
 
 export default function Home() {
   return (
@@ -28,7 +29,7 @@ export default function Home() {
       <Header />
       <HeroSection />
       <NextUIProvider>
-        <div style={{ display: 'flex', justifyContent: 'space-evenly',position:'absolute',top:'34em',left:'28em'}}>
+        <div style={{ display: 'flex', justifyContent: 'space-evenly',position:'absolute',top:'27em',left:'28em'}}>
           <DropDown />
           <DatePickers />
           <EndDate />
@@ -50,8 +51,6 @@ export default function Home() {
       <Guide />
       <PostSection />
       <Footer />
-     
-
     </>
   )
 }

@@ -1,57 +1,63 @@
-
 .icon:hover {
     box-shadow: 0px 5px 5px orange;
-} 
-@media screen and (min-width:0px) and (max-width:480px){
+}
+
+@media screen and (min-width:0px) and (max-width:480px) {
     .subContainer {
         display: flex;
         justify-content: space-between;
     }
+
     .img1 {
-       padding-top: 15px;
-       padding-left: 15px;
-       width:100px;
-       height:50px
+        padding-top: 15px;
+        padding-left: 15px;
+        width: 100px;
+        height: 50px
     }
+
     .icons_fa {
         padding-top: 20px;
         padding-right: 20px;
-    } 
-    
+    }
+
     .header_link {
         visibility: hidden;
     }
-   
+
     .header_number {
         visibility: hidden;
     }
 }
 
-@media screen and (min-width:481px) and (max-width:640px){
+@media screen and (min-width:481px) and (max-width:640px) {
     .subContainer {
         display: flex;
         justify-content: space-between;
     }
+
     .img1 {
-       padding-top: 15px;
-       padding-left: 15px;
-       width:100px;
-       height:50px
+        padding-top: 15px;
+        padding-left: 15px;
+        width: 100px;
+        height: 50px
     }
+
     .icons_fa {
         padding-top: 20px;
         padding-right: 20px;
-    } 
-   
+    }
+
     .header_link {
         visibility: hidden;
     }
-   
+
     .header_number {
         visibility: hidden;
     }
 }
-@media screen and (min-width:641px) and (max-width:768px){
+
+@media screen and (min-width:641px) and (max-width:768px) {
+
     /* .header_link {
         visibility: hidden;
     }
@@ -65,79 +71,119 @@
         display: flex;
         justify-content: space-between;
     }
+
     .img1 {
-       padding-top: 15px;
-       padding-left: 15px;
-       width:100px;
-       height:50px
+        padding-top: 15px;
+        padding-left: 15px;
+        width: 100px;
+        height: 50px
     }
+
     .icons_fa {
         padding-top: 20px;
         padding-right: 20px;
-    } 
-    
+    }
+
     .header_link {
         visibility: hidden;
     }
-   
+
     .header_number {
         visibility: hidden;
     }
 }
-@media screen and (min-width:769px) and (max-width:1024px){
-    .container{
+
+@media screen and (min-width:769px) and (max-width:1024px) {
+    .container {
         display: flex;
         justify-content: space-around;
         align-items: center;
+        position: fixed;
     }
-    .icons{
+
+    .icons {
         visibility: hidden;
     }
+
     .img1 {
         padding-top: 15px;
         padding-left: 15px;
-        
-     }
-    .header_link {
-        display:flex
-    }
-    .header_para1 {
-        color:'white';
-        cursor: 'pointer';
-    }
-    .header_number {
 
     }
+
+    .header_link {
+        display: flex
+    }
+
+    .header_para1 {
+        color: 'white';
+        cursor: 'pointer';
+    }
+
+    .header_number {}
+
     .header_para2 {
-        color:'white';
+        color: 'white';
         /* font-size: 20px; */
     }
 }
-@media screen and (min-width:1025px) and (max-width:1536px){
-    .container{
+
+@media screen and (min-width:1025px) and (max-width:1536px) {
+    .container {
         display: flex;
         justify-content: space-around;
         align-items: center;
+        position: 'fixed';
+        z-index: 1000;
+        padding: 18px;
+        height: 100px;
+        width: 100%;
+        position: fixed;
+        background-color: 'transparent';
+        -webkit-transition: all ease-out .5s;
+        -moz-transition: all ease-out .5s;
+        -o-transition: all ease-out .5s;
+        transition: all ease-out .5s;
     }
-    .icons{
+
+    .active {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        position: 'fixed';
+        z-index: 1000;
+        padding: 18px;
+        height: 100px;
+        width: 100%;
+        position: fixed;
+        background-color: rgba(34, 34, 34, 0.8);
+        -webkit-transition: all ease-out .5s;
+        -moz-transition: all ease-out .5s;
+        -o-transition: all ease-out .5s;
+        transition: all ease-out .5s;
+    }
+
+    .icons {
         visibility: hidden;
     }
+
     .img1 {
         padding-top: 15px;
         padding-left: 15px;
-        
-     }
-   
-    .header_link {
-        display:flex
+
     }
+
+    .header_link {
+        display: flex
+    }
+
     .header_para1 {
-        color:'white';
+        color: 'white';
         cursor: 'pointer';
     }
-   
+
     .header_para2 {
-        color:'white';
+        color: 'white';
         /* font-size: 40px; */
     }
 

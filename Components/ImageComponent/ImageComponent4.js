@@ -8,7 +8,7 @@ import Image from 'next/image';
 
 import { Card, Grid, Text, Button, Row } from "@nextui-org/react";
 
-export default function Card2() {
+export default function ImageComponent4() {
   return (
     <Grid.Container gap={2}>
       <Grid sm={12} md={5}>

@@ -15,19 +15,19 @@ function HeroSection() {
               
               <Carousel>
                   <div>
-                      <Image src={Shadow1} alt="image5" style={{height:'32em',width:'95em'}}/>
+                      <Image src={Shadow1} alt="image5" style={{height:'32em',width:'95em',objectFit:'cover'}}/>
                   </div>
                   <div>
-                      <Image src={Shadow2} alt="image2" style={{height:'32em',width:'95em'}}/>
+                      <Image src={Shadow2} alt="image2" style={{height:'32em',width:'95em',objectFit:'cover'}}/>
                   </div>
                   <div>
-                      <Image src={Shadow3} alt="image3" style={{height:'32em',width:'95em'}}/>  
+                      <Image src={Shadow3} alt="image3" style={{height:'32em',width:'95em',objectFit:'cover'}}/>  
                   </div>
                   <div>
-                      <Image src={Shadow1} alt="image4" style={{height:'32em',width:'95em'}}/>
+                      <Image src={Shadow1} alt="image4" style={{height:'32em',width:'95em',objectFit:'cover'}}/>
                   </div>
                   <div>
-                      <Image src={Shadow2} alt="image5" style={{height:'32em',width:'95em'}}/> 
+                      <Image src={Shadow2} alt="image5" style={{height:'32em',width:'95em',objectFit:'cover'}}/> 
                   </div>
               </Carousel>
             </div>

@@ -1,23 +1,36 @@
 import Logo from '../../Assets/Images/logo_1.png';
 import Image from 'next/image';
 import styles from '../../src/styles/Header.module.css';
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef} from 'react';
 import { FaBars } from 'react-icons/fa';
 import { RxCross1 } from 'react-icons/Rx';
 import HeaderBar from 'Components/HeaderBar/HeaderBar';
 
 function Header() {
-   const [headerColor, setHeaderColor] = useState("orange")
+   const [headerColor, setHeaderColor] = useState('container');
    const [condition, setCondition] = useState(true)
    const [sideScreen, setSideScreen] = useState(true)
    const [touched , setTouched] = useState(true);
    const [leave, setLeave] = useState(true);
+  
+   const navRef = useRef()
+   navRef.current = headerColor
 
-   const listenScrollEvent = () => {
-      window.screenY > 10
-         ? setHeaderColor("orange")
-         : setHeaderColor("orange")
-   }
+   useEffect(() => {
+      const handleScroll = () => {
+         const show = window.scrollY >  30
+         if (show) {
+            setHeaderColor('active');
+         } else {
+            setHeaderColor('container')
+         }
+      }
+      document.addEventListener('scroll',handleScroll)
+      return () => {
+         document.removeEventListener('scroll',handleScroll)
+      }
+   }, [])
+   
    function Clicked() {
       setTouched(!touched);
        
@@ -26,12 +39,8 @@ function Header() {
       setLeave(!leave);
    }
 
-   useEffect(() => {
-      window.addEventListener("scroll", listenScrollEvent)
-   })
-
    return ( 
-     <div className={styles.container} style={{ backgroundColor: headerColor }}>
+     <div className={headerColor === 'container' ? styles.container : styles.active}>
          <div className={styles.subContainer}>
             <div className={styles.ImageSections}>
                <Image src={Logo} alt="logo_image" className={styles.img1} />
