@@ -1,0 +1,248 @@
+[
+    {  
+        "id":"1",
+        "title1":"DLF BELAIRE Sector 54 Gurgaon",
+        "image1":"../Images/Building1.jpg",
+        "smallImage1":"../Images/Building1.jpg",
+        "smallImage2":"../Images/smallImage9.jpg",
+        "smallImage3":"../Images/smallImage20.jpg",
+        "smallImage4":"../Images/Building2.jpeg",
+        "RoomOverview":{
+              "id":"1",
+              "paragraph":"DLF Belaire, a beautiful offering at DLF Phase 5 Sector 54 Gurgaon. Experience a private lifestyle that comes from staying in a premium gated community s have been designed to offer the best in terms of space and design. It is a luxury habitat surrounded by extensive greens with many apartments overlooking the DLF Golf Course greens. Home to multinational corporations, world-class dining, & shopping avenues. 16-lane expressway and rapid metro network defines seamless connectivity",
+              "Specification":"Belaire Specifications",
+              "Specification1":"4 Bedroom Apartments Available with different sizes starting from 3000sqt  to 4217Sqft."
+        },
+        "SocietAmenties":{
+            "id":"1",
+            "option1":"Steam and Sauna",
+            "option2":"Club House",
+            "option3":"Gymnasium",
+            "option4":"Swimming Pool",
+            "option5":"Spa",
+            "option6":"Salon",
+            "option7":"Massage"
+        },
+        "RoomAmenties":{
+            "id":"1",
+            "option1":"Fully Furnished Apartments",
+            "option2":"Air-conditioned",
+            "option3":"Marble Flooring",
+            "option4":"Wooden Flooring",
+            "option5":"Fully Fitted Toilets/BathRooms",
+            "option6":"Fully Furnished kitchen"
+        } 
+    },
+
+
+    {  
+        "id":"2",
+        "title1":"DLF CREST Sector 54 Gurgaon",
+        "image1":"../Images/Building2.jpeg",
+        "smallImage1":"../Images/Building2.jpeg",
+        "smallImage2":"../Images/smallImage9.jpg",
+        "smallImage3":"../Images/smallImage20.jpg",
+        "smallImage4":"../Images/Building2.jpeg",
+        "RoomOverview":{
+              "id":"2",
+              "paragraph":"DLF Crest a beautiful offering at DLF Phase 5 Sector 54 Gurgaon. Experience a private lifestyle that comes from staying in a premium gated community. The Crest marries classic and modern design in timeless harmony. Its interior is equally spectacular, with well-appointed, spacious 3 & 4 Bedroom apartment that overlook a beautiful landscaped complex and radiant city skyline",
+              "Specification":"Crest Specifications",
+              "Specification1":"3 Bedroom Apartment available with Size 3518 Sqft",
+              "Specification2":"4 Bedroom Apartment available with size 4969 Sqft"
+        },
+        "SocietAmenties":{
+            "id":"2",
+            "option1":"Steam and Sauna",
+            "option2":"Club House",
+            "option3":"Gymnasium",
+            "option4":"Swimming Pool",
+            "option5":"Spa",
+            "option6":"Salon",
+            "option7":"Massage",
+            "option8":"Children's Play Area",
+            "option9":"Shopping Centre",
+            "option10":"Multi Purpose Hall",
+            "option11":"Salon",
+            "option12":"Massage"
+        },
+        "RoomAmenties":{
+            "id":"2",
+            "option1":"Fully Furnished Apartments",
+            "option2":"Air-conditioned",
+            "option3":"Marble Flooring",
+            "option4":"Wooden Flooring",
+            "option5":"Fully Fitted Toilets/BathRooms",
+            "option6":"Fully Furnished kitchen"
+        } 
+    },
+
+
+    {  
+        "id":"3",
+        "title1":"DLF PARK PLACE",
+        "image1":"../Images/Building3.jpeg",
+        "smallImage1":"../Images/Building3.jpeg",
+        "smallImage2":"../Images/smallImage9.jpg",
+        "smallImage3":"../Images/smallImage20.jpg",
+        "smallImage4":"../Images/Building2.jpeg",
+        "RoomOverview":{
+              "id":"3",
+              "paragraph":"DLF Park Place is a luxury residential project located at Gurgaon, Sector – 54 in DLF City Phase V near the Golf Course Road. The project offers 3 BHK and 4 BHK apartments which are accompanied by a separate servant room to individuals looking for a luxurious and comfortable lifestyle. The architecture of the apartments in DLF Park Place designed with an efficient layout to allow maximum fresh air and sunlight throughout the apartments. It also ensures that adjacent apartments don’t overlook each other and they enjoy the beautiful views of the landscape.",
+              "Specification":"Park Place Specifications",
+              "Specification1":"3 Bedroom Apartment available in different Sizes 1983 sqft to 2329 Sqft",
+              "Specification2":"4 Bedroom Apartment available with size 2700Sqft"
+        },
+        "SocietAmenties":{
+            "id":"3",
+            "option1":"Steam and Sauna",
+            "option2":"Shopping Centre",
+            "option3":"Gymnasium",
+            "option4":"Swimming Pool",
+            "option5":"Spa",
+            "option6":"Salon",
+            "option7":"Massage",
+            "option8":"Children's Play Area",
+            "option9":"Shopping Centre",
+            "option10":"Multi Purpose Hall",
+            "option11":"Massage"
+            
+        },
+        "RoomAmenties":{
+            "id":"3",
+            "option1":"Fully Furnished Apartments",
+            "option2":"Air-conditioned",
+            "option3":"Marble Flooring",
+            "option4":"Wooden Flooring",
+            "option5":"Fully Fitted Toilets/BathRooms",
+            "option6":"Fully Furnished kitchen",
+            "option7":"24x7 power backup"
+        } 
+    },
+
+
+    {  
+        "id":"4",
+        "title1":"IREO Grand Arch",
+        "image1":"../Images/Building4.jpg",
+        "smallImage1":"../Images/Building4.jpg",
+        "smallImage2":"../Images/smallImage9.jpg",
+        "smallImage3":"../Images/smallImage20.jpg",
+        "smallImage4":"../Images/Building2.jpeg",
+        "RoomOverview":{
+              "id":"4",
+              "paragraph":"IREO Grand Arch designed to set the best world-class standards in luxury condominiums, township called the IREO City, located at the Golf Course Road Extension, in Sector-58. The Grand Arch from Ireo is spread over almost 20 acres with unique architecture. The Grand Arch’s usage of state-of-the-art technology and set phenomenal criteria of luxury, convenience and comfort. Ireo has created stylish homes which redefine the concept of luxurious living with 4 bedroom ,3 bedrooms & 2 Bedrooms apartments and duplex apartments in Gurgaon. The Ireo Grand Arch is built to attain the next level of living along with comfort and style. The Grand Arch, are acres of lush green landscapes which will give the residents a peaceful environment to live in.",
+              "Specification":"Ireo Grand Arch Specifications",
+              "Specification1":"Unit Size: The 2, 3 and 4 BHK apartments come in size 1375 sq. Ft to 5085 sq. Ft.",
+              "Specification2":""
+        },
+        "SocietAmenties":{
+            "id":"4",
+            "option1":"Steam and Sauna",
+            "option2":"Shopping Centre",
+            "option3":"Gymnasium",
+            "option4":"Swimming Pool",
+            "option5":"Spa",
+            "option6":"Salon",
+            "option7":"Massage",
+            "option8":"Children's Play Area",
+            "option9":"Shopping Centre",
+            "option10":"Multi Purpose Hall",
+            "option11":"Massage"
+            
+        },
+        "RoomAmenties":{
+            "id":"4",
+            "option1":"Fully Furnished Apartments",
+            "option2":"Air-conditioned",
+            "option3":"Marble Flooring",
+            "option4":"Wooden Flooring",
+            "option5":"Fully Fitted Toilets/BathRooms",
+            "option6":"Fully Furnished kitchen",
+            "option7":"24x7 power backup"
+        } 
+    },
+
+    {  
+        "id":"5",
+        "title1":"La-lagune",
+        "image1":"../Images/Building5.jpg",
+        "smallImage1":"../Images/Building5.jpg",
+        "smallImage2":"../Images/smallImage9.jpg",
+        "smallImage3":"../Images/smallImage20.jpg",
+        "smallImage4":"../Images/Building2.jpeg",
+        "RoomOverview":{
+              "id":"5",
+              "paragraph":"La-Lagune occupies a very desirable location on the main sector road at Sector-54 Golf Course Road. Built around verdant wide-open spaces, and sprawling gardens. The lavish condominium floor plan ranges from 4 bedroom luxury living space providing a personal paradise in the city. It's the perfect symphony of Luxury & Convenience.",
+              "Specification":"La-Lagune Specifications",
+              "Specification1":"4 Bedroom Apartment available in different Sizes 3160 - 4050 sqft.",
+              "Specification2":""
+        },
+        "SocietAmenties":{
+            "id":"5",
+            "option1":"Steam and Sauna",
+            "option2":"Shopping Centre",
+            "option3":"Gymnasium",
+            "option4":"Swimming Pool",
+            "option5":"Spa",
+            "option6":"Salon",
+            "option7":"Massage",
+            "option8":"Dance & Aerobic Studios",
+            "option9":"Shopping Centre",
+            "option10":"Multi Purpose Hall",
+            "option11":"Massage"
+            
+        },
+        "RoomAmenties":{
+            "id":"5",
+            "option1":"Fully Furnished Apartments",
+            "option2":"Air-conditioned",
+            "option3":"Marble Flooring",
+            "option4":"Wooden Flooring",
+            "option5":"Fully Fitted Toilets/BathRooms",
+            "option6":"Fully Furnished kitchen",
+            "option7":"24x7 power backup"
+        } 
+    },
+
+    {  
+        "id":"6",
+        "title1":"Mahindra Luminare",
+        "image1":"../Images/Building6.jpg",
+        "smallImage1":"../Images/Building6.jpg",
+        "smallImage2":"../Images/smallImage9.jpg",
+        "smallImage3":"../Images/smallImage20.jpg",
+        "smallImage4":"../Images/Building2.jpeg",
+        "RoomOverview":{
+              "id":"6",
+              "paragraph":"Mahindra Luminare is a Luxury Housing Project Situated At Gurgaon Sector 59, Mahindra Luminare - residences that characterize elegance, privacy and majesty like no other in Gurgaon. Considered and designed for the chosen few who enjoy a life that seamlessly blends familiarity and community, Mahindra Luminare offers 3 BHK luxurious Bask in the rapturous delight of luxury living with unique features such as corner residences, wraparound balconies which offer panoramic views of the nearby Aravalli Hills.",
+              "Specification":"Luminare Specifications",
+              "Specification1":"3 Bedroom Apartment available in  Size 2985 sqft.",
+              "Specification2":""
+        },
+        "SocietAmenties":{
+            "id":"6",
+            "option1":"Steam and Sauna",
+            "option2":"Shopping Centre",
+            "option3":"Gymnasium",
+            "option4":"Swimming Pool",
+            "option5":"Spa",
+            "option6":"Salon",
+            "option7":"Massage",
+            "option8":"Children's Play Area",
+            "option9":"",
+            "option10":"",
+            "option11":""
+            
+        },
+        "RoomAmenties":{
+            "id":"6",
+            "option1":"Fully Furnished Apartments",
+            "option2":"Air-conditioned",
+            "option3":"Marble Flooring",
+            "option4":"Wooden Flooring",
+            "option5":"Fully Fitted Toilets/BathRooms",
+            "option6":"Fully Furnished kitchen",
+            "option7":"24x7 power backup"
+        } 
+    }
+]

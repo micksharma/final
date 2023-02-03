@@ -2,7 +2,7 @@ import Done2 from '../../Assets/Images/Done2.png';
 import Image from 'next/image';
 import Cards from 'Components/Card/Card';
 import Card2 from 'Components/Card/Card2';
-
+import { FlatList } from 'react';
 import { Card } from '@nextui-org/react';
 import { RxAlignBaseline } from 'react-icons/Rx';
 function FinalComponent() {
@@ -29,7 +29,6 @@ function FinalComponent() {
                    <div style={{marginRight:'3em'}}>
                       <Cards />
                    </div>
-                  
                 </div>
                 <div style={{paddingTop:'2em'}}>
                     <div>
