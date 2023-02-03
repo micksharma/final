@@ -5,8 +5,6 @@ import { Carousel } from 'react-responsive-carousel';
 import Shadow1 from '../../Assets/Images/Shadow1.jpg';
 import Shadow2 from '../../Assets/Images/Shadow2.png';
 import Shadow3 from '../../Assets/Images/Shadow3.jpg';
-import Image4 from '../../Assets/Images/image4.jpg';
-import Image5 from '../../Assets/Images/image5.jpg';
 
 
 function HeroSection() {

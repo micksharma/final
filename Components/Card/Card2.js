@@ -1,9 +1,5 @@
 import Room2 from '../../Assets/Images/Room2.jpg';
 import Room3 from '../../Assets/Images/Room3.jpg';
-import Image2 from '../../Assets/Images/image2.jpg';
-import Image3 from '../../Assets/Images/image3.jpg';
-import Image4 from '../../Assets/Images/image4.jpg';
-import Image5 from '../../Assets/Images/image5.jpg';
 import Image from 'next/image';
 
 import { Card, Grid, Text, Button, Row } from "@nextui-org/react";
